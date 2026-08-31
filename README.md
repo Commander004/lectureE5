@@ -8,7 +8,7 @@ An interactive physics experience built as a website instead of a traditional Po
 
 ## ✨ Live Demo
 
-**[Open the lecture →](https://commander004.github.io/lectureE5/Gravity-Lecture/)**
+**[Open the lecture →](https://commander004.github.io/lectureE5/)**
 
 > Enable GitHub Pages first (Settings → Pages → Deploy from branch → main)
 
